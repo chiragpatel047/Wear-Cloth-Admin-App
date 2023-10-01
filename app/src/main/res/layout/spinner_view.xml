@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/main_background"
+    android:fontFamily="@font/poppins_medium"
+    android:maxLines="1"
+    android:padding="10dp"
+    android:text="Select item"
+    android:textColor="@color/font_color"
+    android:textSize="14sp" />

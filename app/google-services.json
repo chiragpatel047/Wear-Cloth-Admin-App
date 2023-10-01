@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "275022599615",
+    "firebase_url": "https://febric-fd144-default-rtdb.firebaseio.com",
+    "project_id": "febric-fd144",
+    "storage_bucket": "febric-fd144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275022599615:android:698c1c790ab25b97127d0a",
+        "android_client_info": {
+          "package_name": "com.ecomapp.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275022599615-kf0nijnu1ql3g1udl9i3e25o3nftp5el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ApGh_FhCigMyVWSvqLGS0cdVfXi41hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275022599615-fgnrg0puanj81hmbv9dkeo321ej2qa10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275022599615:android:63a7d0917a763d1e127d0a",
+        "android_client_info": {
+          "package_name": "com.ecomapp.febric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275022599615-kf0nijnu1ql3g1udl9i3e25o3nftp5el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ApGh_FhCigMyVWSvqLGS0cdVfXi41hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275022599615-fgnrg0puanj81hmbv9dkeo321ej2qa10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
